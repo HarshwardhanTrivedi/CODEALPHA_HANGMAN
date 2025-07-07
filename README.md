@@ -1,4 +1,5 @@
-#CODEALPHA_HANGMAN
+CODEALPHA_HANGMAN
+
 HANGMAN GAME Use a small list of 5 predefined words (no need to use a file or API). ● Limit incorrect guesses to 6. ● Basic console input/output — no graphics or audio. Key Concepts Used: random, while loop, if-else, strings, lists. Brief Explanation of Hangman Game Hangman is a classic word-guessing game where one player thinks of a word, and the other player tries to guess it by suggesting letters within a limited number of attempts.
 
 🔸 How the Game Works: Secret Word: A word is selected randomly (or by one player) and kept hidden.
